@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 ===============
 
 Diving head-first into the whole crazy world of Github.
